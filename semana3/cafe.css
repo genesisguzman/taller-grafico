@@ -1,0 +1,56 @@
+.wrapper { width: 900px;
+           margin: auto;
+         }
+
+header {height: 255px;
+        background: url(images/cafe_web.jpg); 
+        background-repeat: no-repeat;
+}
+
+h1{
+  margin-left: 300px;
+}
+
+nav{background-color: #230b03;
+    text-align: center;
+}
+
+nav ul li {
+  padding-left: 15px;
+  font-family:Helvetica;
+  font-size: 14px;
+  color: #fff;
+  display:inline-block;
+}
+
+article { float: left;
+  width: 300px;
+  margin-left:100px; 
+
+
+}
+
+
+p { 
+    font-family:Helvetica;
+    color: #230b03;
+    font-size: 12px;
+}
+
+
+ h2 {
+    font-family: Helvetica;
+    font-size: 14px;
+     color: #230b03;
+     display: 
+}
+
+
+
+footer{background-color:#230b03; 
+clear: both;
+}
+
+footer h4 {color: #fff;}
+
+
