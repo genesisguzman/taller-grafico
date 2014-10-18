@@ -20,6 +20,7 @@ h1 { width: 218px;
 
 nav {width: 287px;
    float: right;
+   
 
 }
 
@@ -54,6 +55,7 @@ article {font-family: Arial;
 
 article h3 {font-family: Impact;
             font-size: 25px;
+            padding-top: 10px;
 }
 
 article h5{font-family: Arial;
@@ -68,6 +70,7 @@ footer{clear: both;
 footer h6 {font-family: Arial;
             font-weight: bold;
             font-size: 12px;
+            padding-top: 10px;
 
 }
 
