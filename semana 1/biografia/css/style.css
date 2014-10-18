@@ -1,0 +1,35 @@
+.wrapper {background-color: black;
+
+
+}
+
+h2 {font-family: Helvetica;
+	color: #00333B;
+	font-size: 25px;
+	padding-top: 30px;
+	padding-left: 80px;
+	
+
+
+}
+
+p{padding-top: 10px;
+  padding-left: 80px;
+  color:#63E9F7; 
+  font-size: 18px; 
+  font-famaily: helvetica;
+  padding-right: 70px;
+
+}
+.parrafo{padding-bottom: 50px;
+
+
+}
+
+body{width: 650px;
+}
+body img {padding-left: 80px;
+	      padding-top: 50px;
+
+
+}
